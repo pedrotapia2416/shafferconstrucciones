@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'neuropol';
+    src: url('fonts/neuropol.woff') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
+
+
+.titulo{
+    font-size: 60px;
+    font-family: 'neuropol', sans-serif;
+    line-height: 50px
+    
+    ;
+}
+.color-t{
+   
+   color: rgba(28,124,153,1);
+   font-size: 30px;
+   padding-left: 190px;
+ 
+   
+}
+
+.vh100{
+    height: 100vh;
+}
+
+.navegador{
+    height: 100%;
+}
+
+.centrado {
+    padding-top:20%;
+}
+
+.degradado{
+    background: rgba(179,220,237,1);
+background: -moz-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(28,124,153,1) 50%, rgba(188,224,238,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(50%, rgba(28,124,153,1)), color-stop(100%, rgba(188,224,238,1)));
+background: -webkit-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(28,124,153,1) 50%, rgba(188,224,238,1) 100%);
+background: -o-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(28,124,153,1) 50%, rgba(188,224,238,1) 100%);
+background: -ms-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(28,124,153,1) 50%, rgba(188,224,238,1) 100%);
+background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(28,124,153,1) 50%, rgba(188,224,238,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
+
+padding: 20px;
+}
+.br{
+    font-size: 10px;
+}
+.logo{
+    padding-left: 40px;
+    margin-top: -20px;
+}
+.vh100{
+    background-image: url("/imagenes/font.png");
+    background-size: cover;
+}
+.boton{
+
+    background-color: transparent;
+    font-size: 26px;
+    background-size: cover;
+    padding-left: 205px;
+   margin: 0px;
+   border: 0px;
+   color: blanchedalmond;
+
+   
+}
+
+
+.button{
+    background-color: transparent;
+    background-size: cover;
+    font-size: 26px;
+    padding-left: 205px;
+    border: 0px;
+   color: blanchedalmond;
+    
+}
+.botonn{
+    background-color: transparent;
+    background-size: cover;
+    font-size: 26px;
+    padding-left: 205px;
+    border: 0px;
+    color: blanchedalmond;
+    
+    
+    
+}
+
